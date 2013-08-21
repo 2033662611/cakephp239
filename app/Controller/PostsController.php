@@ -1,4 +1,4 @@
 <?php
 class PostsController extends AppController {
-	var $scaffold;
+	var $scaffold;//comments no meanings
 }
